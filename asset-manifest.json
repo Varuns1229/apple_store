@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/apple_store/static/css/main.fe633105.chunk.css",
+    "main.js": "/apple_store/static/js/main.4c1c1303.chunk.js",
+    "main.js.map": "/apple_store/static/js/main.4c1c1303.chunk.js.map",
+    "runtime-main.js": "/apple_store/static/js/runtime-main.3df33720.js",
+    "runtime-main.js.map": "/apple_store/static/js/runtime-main.3df33720.js.map",
+    "static/js/2.1d2220e0.chunk.js": "/apple_store/static/js/2.1d2220e0.chunk.js",
+    "static/js/2.1d2220e0.chunk.js.map": "/apple_store/static/js/2.1d2220e0.chunk.js.map",
+    "index.html": "/apple_store/index.html",
+    "precache-manifest.c2d66e6b553c06cbf94db94755ebac1c.js": "/apple_store/precache-manifest.c2d66e6b553c06cbf94db94755ebac1c.js",
+    "service-worker.js": "/apple_store/service-worker.js",
+    "static/css/main.fe633105.chunk.css.map": "/apple_store/static/css/main.fe633105.chunk.css.map",
+    "static/js/2.1d2220e0.chunk.js.LICENSE.txt": "/apple_store/static/js/2.1d2220e0.chunk.js.LICENSE.txt",
+    "static/media/applei13.jpg": "/apple_store/static/media/applei13.a7168afe.jpg",
+    "static/media/applew2.jpg": "/apple_store/static/media/applew2.b3c34ed7.jpg",
+    "static/media/ears_pods.jpg": "/apple_store/static/media/ears_pods.1649b0ed.jpg",
+    "static/media/glasses.jpg": "/apple_store/static/media/glasses.19817b5e.jpg",
+    "static/media/logos.jpg": "/apple_store/static/media/logos.f3c07af8.jpg",
+    "static/media/macbook.jpg": "/apple_store/static/media/macbook.d8addcac.jpg",
+    "static/media/monitor.jpg": "/apple_store/static/media/monitor.00556276.jpg",
+    "static/media/speaker.jpg": "/apple_store/static/media/speaker.00f7d981.jpg",
+    "static/media/tv_set.webp": "/apple_store/static/media/tv_set.b90efef1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df33720.js",
+    "static/js/2.1d2220e0.chunk.js",
+    "static/css/main.fe633105.chunk.css",
+    "static/js/main.4c1c1303.chunk.js"
+  ]
+}
