@@ -7,8 +7,16 @@ export const coupons = {
         name:'SAVE20',
         discount:20
     },
-    BHUPENDER:{
-        name:'BHUPENDER',
+    VARUN:{
+        name:'VARUN',
+        discount:50
+    },
+    RITU:{
+        name:'RITU',
+        discount:50
+    },
+    KHUSHBOO:{
+        name:'KHUSHBOO',
         discount:50
     }
 }
