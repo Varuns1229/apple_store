@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ca4b54739a13bb16727216275586e5f",
+    "revision": "553f1c456b188e1c71251a6e9fef563b",
     "url": "/apple_store/index.html"
   },
   {
-    "revision": "501efaa807aeef8d8d08",
-    "url": "/apple_store/static/css/main.fe633105.chunk.css"
+    "revision": "1a79fa23e624bd6fdbc4",
+    "url": "/apple_store/static/css/main.38d17124.chunk.css"
   },
   {
-    "revision": "e4afc378f396817eee64",
-    "url": "/apple_store/static/js/2.1d2220e0.chunk.js"
+    "revision": "1d633e0fd8ffbb164829",
+    "url": "/apple_store/static/js/2.b68fde47.chunk.js"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/apple_store/static/js/2.1d2220e0.chunk.js.LICENSE.txt"
+    "revision": "89a1b2dcd30c03705b2bceeb141b76b6",
+    "url": "/apple_store/static/js/2.b68fde47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "501efaa807aeef8d8d08",
-    "url": "/apple_store/static/js/main.4c1c1303.chunk.js"
+    "revision": "1a79fa23e624bd6fdbc4",
+    "url": "/apple_store/static/js/main.b64bbe3a.chunk.js"
   },
   {
-    "revision": "bac1d879099eb8a3eca1",
-    "url": "/apple_store/static/js/runtime-main.3df33720.js"
+    "revision": "a00f2adbdcdac43f96c5",
+    "url": "/apple_store/static/js/runtime-main.6a291020.js"
   },
   {
     "revision": "a7168afe9b1e0a362a8584d6a84b741d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00f7d98199bcabf3753901e24a6b9e97",
     "url": "/apple_store/static/media/speaker.00f7d981.jpg"
+  },
+  {
+    "revision": "4a0dbe85527b88bfcea004afbf6c9fb8",
+    "url": "/apple_store/static/media/speaker.4a0dbe85.jpg"
   },
   {
     "revision": "b90efef140909635da151657e84c8995",
